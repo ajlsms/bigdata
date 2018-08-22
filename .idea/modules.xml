@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bigdata-flume/bigdata-flume.iml" filepath="$PROJECT_DIR$/bigdata-flume/bigdata-flume.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata-project.iml" filepath="$PROJECT_DIR$/bigdata-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java18/java18.iml" filepath="$PROJECT_DIR$/java18/java18.iml" />
     </modules>
   </component>
 </project>

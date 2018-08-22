@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bigdata-flume" />
+        <module name="java18" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bigdata-flume" target="1.9" />
-      <module name="bigdata-project" target="1.9" />
+      <module name="bigdata-flume" target="1.8" />
+      <module name="bigdata-project" target="1.8" />
+      <module name="java18" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
