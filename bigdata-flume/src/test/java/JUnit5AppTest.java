@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.*;
-
+import static org.junit.jupiter.api.Assertions.assertEquals;
 public class JUnit5AppTest {
 
 @BeforeAll
@@ -27,7 +27,7 @@ System.out.println("@BeforeEach - Executed before each test method in this class
 @DisplayName("Test add user with passed argument is null.")
 @Test
 void testAddUserNull() {
-
+    assertEquals(2,2);
         System.out.println("Test add null user.");
 
     }
