@@ -5,8 +5,10 @@ public class JUnit5AppTest {
 @BeforeAll
  static void setup() {
 
+
+
 // Initialize connection to file.
-System.out.println("@BeforeAll - Execute once before all test methods in this class.");
+System.out.println("@BeforeAll1111 - Execute once before all test methods in this class.");
 
     }
 
